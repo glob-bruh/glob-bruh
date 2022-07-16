@@ -1,7 +1,5 @@
 # <center>GlobBruh</center>
 
-</br>
-
 ## $(whoami)
 
 I do some programming, cybersec, and networking.
@@ -9,8 +7,6 @@ I do some programming, cybersec, and networking.
 Feel free to use and contribute on any projects i have available on GitHub. 
 
 I currently do not have a way to be contacted.
-
-</br>
 
 ## Other websites im on
 
