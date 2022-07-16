@@ -1,16 +1,18 @@
-### Hi there 👋
+# <center>GlobBruh</center>
 
-<!--
-**glob-bruh/glob-bruh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</br>
 
-Here are some ideas to get you started:
+## $(whoami)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I do some programming, cybersec, and networking.
+
+Feel free to use and contribute on any projects i have available on GitHub. 
+
+I currently do not have a way to be contacted.
+
+</br>
+
+## Other websites im on
+
+- [TryHackMe](https://tryhackme.com/p/globbruh)
+- [Hack The Box (account is needed to view)](https://app.hackthebox.com/users/279213)
