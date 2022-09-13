@@ -1,3 +1,3 @@
-# <center>GlobBruh</center>
+# GlobBruh
 
-## **Check out the [GitHub Website](https://glob-bruh.github.io/globbruh-website/).**
+## **Please check out my [GitHub Pages Website](https://glob-bruh.github.io/globbruh-website/).**
